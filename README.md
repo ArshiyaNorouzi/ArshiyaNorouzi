@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArshiyaNorouzi
 - 👀 I’m interested in progamming 
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++, Python, Scratch
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me my email arshiya4961@gmail.com 
 
