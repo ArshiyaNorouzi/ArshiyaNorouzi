@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArshiyaNorouzi
+- 👋 Hi, I’m @Arshiya_OVO
 - 👀 I’m interested in progamming 
 - 🌱 I’m currently learning c++, Python, Scratch
 - 💞️ I’m looking to collaborate on coding
